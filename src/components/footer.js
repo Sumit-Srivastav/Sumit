@@ -12,7 +12,7 @@ const Footer = () =>{
         <div className="row">
             <div className="col-sm-8 py-3">
                 <h3 className=" shadow footer-logo">S<span className="fs-6">UMIT</span></h3>
-                <h6>Web designer and front-end developer</h6>
+                <h6>MERN STACK DEVELOPER</h6>
             </div>
             <div className="col-sm-4 py-3">
            
