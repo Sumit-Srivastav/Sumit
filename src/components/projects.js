@@ -148,6 +148,7 @@ const Projects = () => {
               <div className="text-center visit mt-3 col-12">
                 <a
                   href="https://oxizun.vercel.app/"
+                  target="_blank"
                   className="button text-decoration-none text-light fw-bold"
                 >
                   Visit
@@ -175,6 +176,7 @@ const Projects = () => {
               <div className="text-center visit mt-3 col-12">
                 <a
                   href="https://gadget-project-swart.vercel.app/"
+                  target="_blank"
                   className="button text-decoration-none text-light fw-bold"
                 >
                   Visit
